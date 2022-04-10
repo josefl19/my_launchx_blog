@@ -18,5 +18,16 @@ Aunque muchas de la veces sea complicado para muchas personas, a veces incluso y
 Si bien es importante al momento de desarrollar el código, la comunicacion como valor en la persona ayuda a tener una mejor relacion con el equipo, cliente, etc., ayuda a tener mejores ideas y saber donde podemos brindar ayuda en las areas que lo necesitan, muchas de las veces somos nosotros mismos quien necesitamos de esa ayuda y no sabemos como pedirla.</description>
     </item>
     
+    <item>
+      <title>Mi ruta de aprendizaje en Launch X</title>
+      <link>https://josefl19.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Tue, 08 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://josefl19.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Voy a contar un poco de lo que he aprendido en esta aventura de Launch X:
+ Python Git/Github Jupyter Notebooks Command line HTML CSS Javascript Node JS Un poco de VueJS Scrum  El editor que he usado es Visual Studio Code.
+Ademas de que los MC (Mision comander) en cada etapa han sido incríbles y se les toma un cariño inmenso. Siempre agradecido con el MC Rodrigo que lo conozco desde que era mi sherpa en otros ciclos y con la sherpa Fer que también aprendí mucho de ella y me gustan sus platicas.</description>
+    </item>
+    
   </channel>
 </rss>
